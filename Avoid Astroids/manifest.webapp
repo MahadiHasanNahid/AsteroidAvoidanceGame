@@ -1,0 +1,13 @@
+{
+  "name": "Avoid Astroids",
+  "description": "Avoid Astroids",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/a.png"
+  },
+  "developer": {
+    "name": "Md Mahadi Hasan Nahid",
+    "url": "https://www.facebook.com/nahid.mahadi.hasan"
+  },
+  "default_locate": "en"
+}
